@@ -180,7 +180,7 @@ My contributions have evolved from UI/CSS fixes → **functional backend logic, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharunika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharunika-bodasu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunika-19)
 [![Abhaya Live](https://img.shields.io/badge/Abhaya_App-Live-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://abhaya-webapp.vercel.app)
 
