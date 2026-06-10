@@ -8,7 +8,7 @@
 
 ### `> building things that matter. learning in public. shipping fast.`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=2nd+Year+CS+%2B+AIML+@+JNTUH+%7C+CGPA+9.56;GSSoC+2026+Contributor+%F0%9F%9A%80;React+%7C+Python+%7C+ML+%7C+Flask;Building+for+FAANG%2B+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=2nd+Year+CS+%2B+AIML+@+JNTUH+%7C+CGPA+9.56;GSSoC+2026+Contributor+%F0%9F%9A%80;React+%7C+Python+%7C+ML+%7C+Flask)](https://git.io/typing-svg)
 
 </div>
 
