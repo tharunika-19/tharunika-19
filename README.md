@@ -166,14 +166,6 @@ My contributions have evolved from UI/CSS fixes → **functional backend logic, 
 
 ---
 
-## 🎯 Currently
-
-- 🔥 **GSSoC 2026** — contributing to real-world open source projects
-- 🎓 **Amazon ML Summer School 2026** — application submitted
-- 🏗️ **Portfolio building** — shipping projects every week
-- 📈 **DSA practice** — grinding arrays, strings, recursion daily
-- 🎯 **Target** — FAANG+ internship & placement
-
 ---
 
 ## 🤝 Let's Connect
